@@ -1,4 +1,31 @@
+body {
+  font: 20px arial, sans-serif;
+  max-width: 1800px;
+  margin: auto;
+}
+
 .img-global-labs {
-  width: 220;
+  width: 80px;
   height: 80px;
+}
+
+.navbar {
+  background-color: grey;
+}
+
+.who-we-are {
+  background-color: rgb(128, 202, 94);
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.image-who-we-are {
+  width: 400px;
+  height: 400px;
+  margin-bottom: 30px;
+  margin-top: 10px;
+}
+
+.navbar-brand {
+  margin-left: 16px;
 }
