@@ -15,8 +15,6 @@ body {
 
 .who-we-are {
   background-color: rgb(128, 202, 94);
-  padding-top: 50px;
-  padding-bottom: 50px;
 }
 
 .image-who-we-are {
@@ -28,4 +26,9 @@ body {
 
 .navbar-brand {
   margin-left: 16px;
+}
+
+.margin {
+  padding-top: 50px;
+  padding-bottom: 50px;
 }
